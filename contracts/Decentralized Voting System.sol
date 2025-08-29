@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
+
 /**
  * @title DecentralizedVotingSystem
  * @dev A transparent and secure voting system for proposals and elections
